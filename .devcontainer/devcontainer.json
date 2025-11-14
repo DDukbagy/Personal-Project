@@ -8,8 +8,7 @@
     }
   },
   "features": {
-    "ghcr.io/devcontainers/features/powershell:1": {},
-    "ghcr.io/natescherer/devcontainers-custom-features/powershell-resources:1": {},
-    "ghcr.io/devcontainers-extra/features/powershell:1": {}
-  }
+  "ghcr.io/devcontainers/features/powershell:1": {}
+  },
+  "postCreateCommand": "git lfs install"
 }
