@@ -1,4 +1,2 @@
-import sys
-args = sys.argv[1:]
-for i in args:
-    print(i)
+a = 3 + 4
+print(a)
