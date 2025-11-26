@@ -1,4 +1,10 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": []
+    "python-envs.pythonProjects": [],
+
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "python": "python -u"
+    },
+    "python.terminal.activateEnvironment": true
 }
