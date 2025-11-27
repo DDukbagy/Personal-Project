@@ -6,5 +6,8 @@
     "code-runner.executorMap": {
         "python": "python -u"
     },
-    "python.terminal.activateEnvironment": true
+    "python.terminal.activateEnvironment": true,
+
+    "files.exclude": {
+    "**/__pycache__": true
 }
