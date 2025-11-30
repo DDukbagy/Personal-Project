@@ -1,4 +1,4 @@
-'''
+
 # setdata 예시
 class AddCal:
     def setdata(self, first, second):
@@ -25,7 +25,7 @@ class SubCal:
     
 sub = SubCal(5,2)
 print(sub.sub())
-'''
+
 
 """
 [ setdata , '__init__ 차이]

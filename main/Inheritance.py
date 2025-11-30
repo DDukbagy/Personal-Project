@@ -1,4 +1,4 @@
-'''
+
 # 상속(IS-A 관계) 예시
 class Animal:
     def eat(self):
@@ -24,7 +24,7 @@ car = Car()
 car.engine = ElectricEngine()   # 엔진 객체로 교체
 
 car.engine.start()  # "전기 엔진 ON"
-'''
+
 
 """
 [ 상속, 포함 비교 정리 ]
